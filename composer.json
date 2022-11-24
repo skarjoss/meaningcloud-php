@@ -1,5 +1,5 @@
 {
-    "name": "meaningcloud/meaningcloud-php",
+    "name": "skarjoss/meaningcloud-php",
     "description": "MeaningCloud's official PHP SDK",
     "type": "library",
     "license": "MIT",
